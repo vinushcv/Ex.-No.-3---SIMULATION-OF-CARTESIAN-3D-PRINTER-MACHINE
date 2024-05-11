@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+# Ex. No. 5 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
 ### DATE: 
 
 ## AIM:
@@ -63,8 +63,8 @@
 ![image](https://github.com/vinushcv/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113975318/4d331d2e-2aad-4217-99f5-274d57ad6fcc)
 
 
-### Name: 
-### Register Number:
+### Name: Vinush.CV  
+### Register Number:  212222230176
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
