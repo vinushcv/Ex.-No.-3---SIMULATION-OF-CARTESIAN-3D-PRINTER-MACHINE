@@ -60,6 +60,9 @@
 
 ## Output:
 
+![image](https://github.com/vinushcv/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113975318/4d331d2e-2aad-4217-99f5-274d57ad6fcc)
+
+
 ### Name: 
 ### Register Number:
 
